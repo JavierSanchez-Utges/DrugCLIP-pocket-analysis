@@ -1,0 +1,8 @@
+# Data — archived on Zenodo, not tracked in git (see README)
+/DATA/
+
+# OS / editor junk
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
