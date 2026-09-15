@@ -3,8 +3,7 @@
 <!-- TODO: replace with the published paper link once available -->
 This is the GitHub repository underlying the analysis for our paper "Interrogating contrastive learning embeddings for structure-based virtual screening: a case study on DrugCLIP" (Utgés _et al._, 2026).
 
-<!-- TODO: replace with the real Zenodo DOI badge once the data deposit is published, e.g.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22768064.svg)](https://doi.org/10.5281/zenodo.22768064)
 
 ## Overview
 
