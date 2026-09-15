@@ -92,27 +92,26 @@ provenance/citation, not something you need to install to run the notebooks as s
 outputs are already baked into `DATA/`), except where noted.
 
 1. [P2Rank](https://github.com/rdk/p2rank) — pocket-detection method whose predictions are
-   compared throughout (PDB and AlphaFold-model structures).
+   compared throughout (PDB and AlphaFold-model structures). Krivák, *et al.* "P2Rank: machine learning based tool for rapid and accurate prediction of ligand binding sites from protein structure." *J Cheminform.* 2018. [doi:10.1186/s13321-018-0285-8](https://link.springer.com/article/10.1186/s13321-018-0285-8)
 2. [DrugCLIP](https://github.com/bowen-gao/DrugCLIP) — the contrastive pocket/ligand embedding
-   model this whole analysis evaluates. Gao B, *et al.* "DrugCLIP: Contrastive Protein-Molecule
-   Representation Learning for Virtual Screening." *NeurIPS* 2023.
+   model this whole analysis evaluates. Jia, *et al.* "Deep contrastive learning enables genome-wide virtual screening." *Science* 2026. [doi:10.1126/science.ads9530](https://www.science.org/doi/10.1126/science.ads9530)
 3. [PocketVec](https://github.com/sbnb-irb/pocketvec) — pocket-comparison method compared in
-   notebook 02. Duran-Frigola *et al.* "Comprehensive detection and characterization of human
+   notebook 02. Comajuncosa-Creus *et al.* "Comprehensive detection and characterization of human
    druggable pockets through binding site descriptors." *Nat Commun.* 2024.
    [doi:10.1038/s41467-024-52146-3](https://www.nature.com/articles/s41467-024-52146-3).
 4. [NRGRank](https://github.com/NRGlab/NRGRank) — pocket/ligand scoring method compared in notebook 02.
    [bioRxiv 2025.02.17.638675](https://www.biorxiv.org/content/10.1101/2025.02.17.638675v1.full).
 5. [EPoCS](https://github.com/tugceoruc/epocs) — ESM-2-based pocket cross-similarity method
-   compared in notebook 02. Oruç T, *et al.* "Mapping the space of protein binding sites with
+   compared in notebook 02. Oruç, *et al.* "Mapping the space of protein binding sites with
    sequence-based protein language models." *Bioinformatics.* 2025;41(6):btaf284.
    [doi:10.1093/bioinformatics/btaf284](https://academic.oup.com/bioinformatics/article/41/6/btaf284/8176567).
 6. [US-align](https://github.com/pylelab/USalign) — structural alignment tool used upstream to
-   compute the SC-RMSD values shipped in `DATA/` (not re-run by these notebooks). Zhang C, *et al.*
+   compute the SC-RMSD values shipped in `DATA/` (not re-run by these notebooks). Zhang, *et al.*
    "US-align: universal structure alignments of proteins, nucleic acids, and macromolecular
    complexes." *Nat Methods.* 2022.
    [doi:10.1038/s41592-022-01585-1](https://www.nature.com/articles/s41592-022-01585-1).
 7. [MMseqs2](https://github.com/soedinglab/MMseqs2) — used upstream to compute pocket/receptor
-   sequence identity (shipped in `DATA/`, not re-run by these notebooks).
+   sequence identity (shipped in `DATA/`, not re-run by these notebooks). Hauser, _et al._ "MMseqs software suite for fast and deep clustering and searching of large protein sequence sets." *Bioinformatics* 2016. [doi:10.1093/bioinformatics/btw006](https://academic.oup.com/bioinformatics/article/32/9/1323/1744460)
 
 ## Citation
 
