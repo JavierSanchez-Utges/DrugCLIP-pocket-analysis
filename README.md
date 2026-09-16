@@ -65,8 +65,7 @@ no local path configuration needed.
 This repository holds **code only** — `DATA/` is git-ignored and not pushed to GitHub. The data
 itself (the **minimal reproducing input set** for these 15 notebooks, ~5.6 GB.
 
-<!-- TODO: replace with the real Zenodo DOI once the deposit is published -->
-**Zenodo DOI: TODO**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22791467.svg)](https://doi.org/10.5281/zenodo.22791467)
 
 To reproduce the analysis, download the Zenodo archive and extract it as `DATA/` at the repo root
 (i.e. so `DATA/drugclip/`, `DATA/pocket_benchmark/` and `DATA/natural_ligands/` sit directly under
