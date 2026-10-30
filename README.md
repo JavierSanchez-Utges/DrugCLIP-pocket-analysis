@@ -113,4 +113,4 @@ outputs are already baked into `DATA/`), except where noted.
 
 ## Citation
 
-<!-- TODO: add citation once published -->
+Utgés JS, Jones DT, Orengo C. Interrogating contrastive learning embeddings for structure-based virtual screening: a case study on DrugCLIP. bioRxiv. 2026. doi:[10.64898/2026.09.16.752029](https://doi.org/10.64898/2026.09.16.752029).
